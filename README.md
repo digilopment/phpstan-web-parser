@@ -72,3 +72,10 @@ stan-latte app/ web 5 #stan level 5, folder "app", response "web"
 stan-latte src/ web 8 #stan level 8, folder "src", response "web"
 stan-latte #default stan level 8, default folder "full_project", default response "console"
 ```
+
+#### FILTRED BY DEFAULT SOURCE
+[![N|Solid](https://raw.githubusercontent.com/digilopment/phpstan-web-parser/master/public/img/stan-latte.png)]
+
+#### FILTRED BY USER
+[![N|Solid](https://raw.githubusercontent.com/digilopment/phpstan-web-parser/master/public/img/stan-latte-2.png)]
+
